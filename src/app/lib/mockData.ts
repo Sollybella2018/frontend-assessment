@@ -6,8 +6,7 @@ export interface TeamMember {
   avatar: string;
   team: string;
   status: string;
-}
-
+} 
 export const teamMembers: TeamMember[] = [
   { id: 1, name: "Assel", role: "Admin", email: "Assel@gamil.com", avatar: "/avatar1.png", team: "engineering", status: "active" },
   { id: 2, name: "Sara Omar", role: "Agent", email: "sara@example.com", avatar: "/avatar2.png", team: "design", status: "inactive" },
