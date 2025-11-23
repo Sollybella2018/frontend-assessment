@@ -1,0 +1,23 @@
+{
+  "teamDirectory": {
+    "metadata": {
+      "title": "دليل الفريق",
+      "description": "تصفح أعضاء الفريق"
+    },
+    "filters": {
+      "searchPlaceholder": "ابحث بالاسم...",
+      "roleFilter": "كل الفرق",
+      "clearFilters": "مسح الكل",
+      "roles": {
+        "engineering": "الهندسة",
+        "design": "التصميم"
+      },
+      "statuses": {
+        "all": "كل الحالات",
+        "active": "نشط",
+        "inactive": "غير نشط"
+      }
+    },
+    "emptyState": "لا يوجد أعضاء للفريق"
+  }
+}

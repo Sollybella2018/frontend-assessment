@@ -1,0 +1,23 @@
+{
+  "teamDirectory": {
+    "metadata": {
+      "title": "Team Directory",
+      "description": "Browse team members"
+    },
+    "filters": {
+      "searchPlaceholder": "Search by name...",
+      "roleFilter": "All Teams",
+      "clearFilters": "Clear all",
+      "roles": {
+        "engineering": "Engineering",
+        "design": "Design"
+      },
+      "statuses": {
+        "all": "All Status",
+        "active": "Active",
+        "inactive": "Inactive"
+      }
+    },
+    "emptyState": "No team members found"
+  }
+}
